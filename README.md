@@ -1,4 +1,4 @@
-#Atividade do MBA da Impacta de Engenharia de Software da disciplina XX
+# Atividade do MBA da Impacta de Engenharia de Software da disciplina XX
 
 Crie um novo projeto expressJS utilizando como ferramenta para geração deste o express-generator e implemente um novo arquivo de rotas para o cálculo do IMC conforme slides apresentados nas aulas anteriores.
 
@@ -17,7 +17,7 @@ retornando o valor calculado no formato abaixo:
   "imcDescription": text
 }
 
-##Como rodar
+## Como rodar
 ```
 npm install
 npm start
