@@ -1,4 +1,4 @@
-# Atividade do MBA da Impacta de Engenharia de Software da disciplina XX
+# Atividade de ExpressJS do MBA da Impacta de Engenharia de Software da disciplina APIs & Web Applications
 
 Crie um novo projeto expressJS utilizando como ferramenta para geração deste o express-generator e implemente um novo arquivo de rotas para o cálculo do IMC conforme slides apresentados nas aulas anteriores.
 
